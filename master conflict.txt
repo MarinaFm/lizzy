@@ -1,1 +1,1 @@
-LizzyIssue-3 конфликт с мастером
+LizzyIssue-2 конфликт с master
